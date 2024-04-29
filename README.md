@@ -45,16 +45,6 @@ Utilizing the MERN Stack (MongoDB, Express.js, React, Node.js) to create a scala
 ![home_page_gif](https://github.com/singhjyotiraditya/gigex/assets/96012244/80ded94f-6d9c-4429-9458-90c2020f9acf)
 #
 
-# Shimmer Effect
-![shimmer_effect](https://github.com/singhjyotiraditya/gigex/assets/96012244/e1f16cff-3ebd-4a06-a585-d7a5778268d3)
-#
 
-# React Toastify
-![toastify](https://github.com/singhjyotiraditya/gigex/assets/96012244/0942050a-1fbd-4484-b141-7310ad227673)
-#
-
-# Chat System
-![chat](https://github.com/singhjyotiraditya/gigex/assets/96012244/66f8a2c2-7452-4db2-868e-6f73a047e1cc)
-#
 
 Gigex ensures a seamless and efficient marketplace for freelancers and clients alike, fostering a community of collaboration and success.
